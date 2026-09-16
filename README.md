@@ -1,6 +1,8 @@
 # Skills
 
 A collection of skills for code work and productivity workflows.
+- Highly trimmed from the source skills, and customized to my preferences.
+- Consider as archived repository for personal usage alone.
 
 ## Engineering
 
